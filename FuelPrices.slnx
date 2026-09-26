@@ -1,0 +1,7 @@
+<Solution>
+  <Folder Name="/Solution Items/">
+    <File Path=".editorconfig" />
+  </Folder>
+  <Project Path="FuelPrices.Core/FuelPrices.Core.csproj" />
+  <Project Path="FuelPrices.Explorer/FuelPrices.Explorer.csproj" />
+</Solution>
